@@ -93,7 +93,9 @@ Project ini dibuat sebagai tugas mata kuliah Analisis Data Kompleks Perminyakan 
 ## 👤 Penyusun
 
 Nama: Alfathan Hidayat
+
 Program Studi: Teknik Perminyakan
+
 Institut Teknologi Sains Bandung
    
 

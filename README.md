@@ -80,8 +80,7 @@ git clone https://github.com/AlfathanHidayat/UAS-Analisis-Data-Kompleks-Perminya
 3. Buka dan jalankan file notebook : Model_Unsupervised_.ipynb
 
 ## 📌 Kebutuhan Sistem
-	•	Python 3.x
-	•	Jupyter Notebook / Google Colab
+	•   Google Colab
 	•	Library: pandas, numpy, matplotlib, scikit-learn
 
 

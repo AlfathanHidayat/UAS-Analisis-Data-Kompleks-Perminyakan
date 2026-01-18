@@ -1,4 +1,8 @@
-# UAS-Analisis-Data-Kompleks-Perminyakan
+<p align="center">
+  <img src="Banner.jpeg" width="800">
+</p>
+
+# 📊 UAS Analisis Data Kompleks Perminyakan
 ## Implementasi Unsupervised Machine Learning untuk Analisis Data Facies
 
 Repository ini berisi tugas UAS yang membahas penerapan metode *Unsupervised Machine Learning* pada data perminyakan, khususnya untuk analisis dan pengelompokan (clustering) data facies reservoir.
